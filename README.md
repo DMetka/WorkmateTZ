@@ -4,6 +4,7 @@
 
    ```bash
    git clone https://github.com/DMetka/WorkmateTZ.git
+   cd WorkmateTZ
    ```
 
 2. Установите зависимости (рекомендуется использовать виртуальное окружение):
