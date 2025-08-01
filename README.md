@@ -3,7 +3,7 @@
 1. Склонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/username/WorkmateTZ.git
+   git clone https://github.com/DMetka/WorkmateTZ.git
    ```
 
 2. Установите зависимости (рекомендуется использовать виртуальное окружение):
